@@ -6,5 +6,6 @@ Usage
 The script expects the settings.cfg to be in the same directory as the script itself. From that directory, you can run the script with the following options:
 export_devices.ps1 -queryString queryString [-filterTypeString typeString]
     -queryString        This is the the search string and is mandatory.
-    -filterTypeString   You can filter the output by the Type. This is                          optional. Possible types can be found here:
+    -filterTypeString   You can filter the output by the Type. This is                          
+                        optional. Possible types can be found here:
                         https://[airwave IP/Domain]]/nf/device_type_list
