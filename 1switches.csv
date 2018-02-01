@@ -1,2 +1,0 @@
-"IP Address","SNMP Community String","Name","Type","Auth Password","SNMPv3 Auth Protocol","Privacy Password","SNMPv3 Privacy Protocol","SNMPv3 Username","Telnet Username","Telnet Password","Enable Password","SNMP Port"
-"10.202.202.15","public","2930F-Test","","","","","","","admin","admin","",""
