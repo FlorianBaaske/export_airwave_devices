@@ -1,4 +1,4 @@
-#Load Input Variables
+#get Input Variables
 param (
     [Parameter(Mandatory=$True)][string]$queryString,
     [string]$filterTypeString=""
