@@ -102,7 +102,7 @@ $apsXML.amp_ap_search.record |
                 "Enable Password" = $enablePassword
                 "SNMP Port" = $snmpPort
                 "Telnet Username" = $telnetUsername
-                "Telnet Password" = $telnetUsername
+                "Telnet Password" = $telnetPassword
             }
             $csvlist += $newrow
         }
